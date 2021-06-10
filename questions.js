@@ -122,7 +122,7 @@ const quiz = [
     },
     {
         q:"I'm afraid it's ____ .",
-        options:["an expensive hotel", "expensive a hotel", "expensive hotel", "expensive hotel"],
+        options:["an expensive hotel", "expensive a hotel", "a hotel expensive", "expensive hotel"],
         answer: 0
     },
     {
