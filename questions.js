@@ -162,7 +162,7 @@ const quiz = [
     },
     {
         q:"Were you at the shops at 5 p.m. yesterday? - No, I ____ .",
-        options:["weren't", "wasn't", "didn't", "am not"],
+        options:["wasn't", "weren't", "didn't", "am not"],
         answer: 0
     },
     {
